@@ -12,7 +12,7 @@ The aim of the project is to provide an end-to-end solution for on-device traini
 * Android Studio
 
 #### Contribute (Future Work)
-* Add support for pairing the app with a smartwatch adnd fine-tuning model for wearable device.
+* Add support for pairing the app with a smartwatch and fine-tuning the model for a wearable device.
 * Porting SoundNet, add functionality for audio recording and tflite model conversion for handling dynamic size input.
 
 If you are interested in contributing to this project, please submit a pull request or reach out at: aqibsaeed@protonmail.com.
