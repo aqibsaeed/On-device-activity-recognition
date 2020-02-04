@@ -1,0 +1,81 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.transfer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-feature
+11-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:5:3-96
+12        android:name="android.hardware.sensor.accelerometer"
+12-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:5:17-69
+13        android:required="true" />
+13-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:5:70-93
+14    <uses-feature
+14-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:6:3-92
+15        android:name="android.hardware.sensor.gyroscope"
+15-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:6:17-65
+16        android:required="true" />
+16-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:6:66-89
+17
+18    <uses-permission android:name="android.permission.VIBRATE" />
+18-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:7:3-63
+18-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:7:20-61
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:8:3-78
+19-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:8:20-76
+20
+21    <application
+21-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:10:3-25:17
+22        android:allowBackup="true"
+22-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:11:7-33
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.1.0] C:\Users\20176249\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
+24        android:configChanges="orientation"
+24-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:12:7-42
+25        android:debuggable="true"
+26        android:icon="@drawable/ic_launcher"
+26-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:13:7-43
+27        android:label="@string/app_name"
+27-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:14:7-39
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme" >
+29-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:15:7-38
+30        <activity
+30-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:16:5-24:16
+31            android:name="org.tensorflow.lite.examples.transfer.MainActivity"
+31-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:17:9-74
+32            android:exported="true"
+32-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:18:9-32
+33            android:screenOrientation="portrait" >
+33-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:19:9-45
+34            <intent-filter>
+34-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:20:7-23:23
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:21:9-60
+35-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:21:17-58
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:22:9-68
+37-->C:\Users\20176249\Desktop\On_Device_AR\android\app\src\main\AndroidManifest.xml:22:19-66
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] C:\Users\20176249\.gradle\caches\transforms-2\files-2.1\98ddecaa2562a1ed013cca33bc88832e\lifecycle-process-2.1.0-rc01\AndroidManifest.xml:23:9-27:43
+42            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+42-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] C:\Users\20176249\.gradle\caches\transforms-2\files-2.1\98ddecaa2562a1ed013cca33bc88832e\lifecycle-process-2.1.0-rc01\AndroidManifest.xml:24:13-79
+43            android:authorities="org.tensorflow.lite.examples.transfer.lifecycle-process"
+43-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] C:\Users\20176249\.gradle\caches\transforms-2\files-2.1\98ddecaa2562a1ed013cca33bc88832e\lifecycle-process-2.1.0-rc01\AndroidManifest.xml:25:13-69
+44            android:exported="false"
+44-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] C:\Users\20176249\.gradle\caches\transforms-2\files-2.1\98ddecaa2562a1ed013cca33bc88832e\lifecycle-process-2.1.0-rc01\AndroidManifest.xml:26:13-37
+45            android:multiprocess="true" />
+45-->[androidx.lifecycle:lifecycle-process:2.1.0-rc01] C:\Users\20176249\.gradle\caches\transforms-2\files-2.1\98ddecaa2562a1ed013cca33bc88832e\lifecycle-process-2.1.0-rc01\AndroidManifest.xml:27:13-40
+46    </application>
+47
+48</manifest>

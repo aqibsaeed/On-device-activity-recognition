@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+	package
+		ADDED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:2:5-56
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+		ADDED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+		ADDED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:1-2:58
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+		ADDED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+		ADDED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\20176249\Desktop\model_personalization\android\transfer_api\src\main\AndroidManifest.xml

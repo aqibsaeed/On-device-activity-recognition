@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\20176249\\Desktop\\model_personalization\\android\\transfer_api\\build\\intermediates\\res\\merged\\release\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\20176249\\.gradle\\caches\\transforms-2\\files-2.1\\50a20bc376a1467c47a752d24be463eb\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\20176249\\Desktop\\model_personalization\\android\\transfer_api\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v28\\values-v28.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\20176249\\.gradle\\caches\\transforms-2\\files-2.1\\50a20bc376a1467c47a752d24be463eb\\res\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

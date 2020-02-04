@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\20176249\\Desktop\\model_personalization\\android\\transfer_api\\build\\intermediates\\res\\merged\\release\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\20176249\\.gradle\\caches\\transforms-2\\files-2.1\\50a20bc376a1467c47a752d24be463eb\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\20176249\\Desktop\\model_personalization\\android\\transfer_api\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\20176249\\.gradle\\caches\\transforms-2\\files-2.1\\50a20bc376a1467c47a752d24be463eb\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
