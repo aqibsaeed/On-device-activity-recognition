@@ -11,7 +11,7 @@ The aim of the project is to provide an end-to-end solution for on-device traini
 * Scipy
 * Android Studio
 
-#### Contribute
+#### Contribute (Future Work)
 * Add support for pairing the app with a smartwatch.
 * Porting SoundNet, add functionality for audio recording and tflite model conversion for handling dynamic size input.
 
