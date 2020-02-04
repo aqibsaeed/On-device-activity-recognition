@@ -23,7 +23,7 @@ The <a href="https://archive.ics.uci.edu/ml/datasets/Heterogeneity+Activity+Reco
 #### Citing
 If you find this project usefuly, please cite it as:
 
-<pre>@misc{Saeed2020recognition, 
+<pre>@misc{saeed2020recognition, 
   author = {Saeed, Aaqib},
   title = {On-device Activity Recognition},
   year = {2020},
