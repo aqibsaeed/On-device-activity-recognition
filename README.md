@@ -1,4 +1,4 @@
-# On-device Activity Recognition
+# On-device Learning of Activity Recognition Networks
 #### Personalized machine learning on the smartphone
 
 The aim of the project is to provide an end-to-end solution for on-device training, inference and data collection for activity recongition based on <a href="https://github.com/tensorflow/examples/tree/master/lite/examples/model_personalization">TFlite Transfer Learning Pipeline</a>. The corresponding blog post is available <a href="https://aqibsaeed.github.io/on-device-activity-recognition">here</a>. 
@@ -25,7 +25,7 @@ If you find this project usefuly, please cite it as:
 
 <pre>@misc{saeed2020recognition, 
   author = {Saeed, Aaqib},
-  title = {On-device Activity Recognition},
+  title = {On-device Learning of Activity Recognition Networks},
   year = {2020},
   journal = {aqibsaeed.github.io},
   url = {\url{https://gitHub.com/aqibsaeed/on-device-activity-recognition}}
